@@ -71,7 +71,6 @@ flutter:
   assets:
     - assets/img/
     - assets/icons/
-    - assets/menus/
     - assets/burgers/
     - assets/pizza/
     - assets/popular_foods/

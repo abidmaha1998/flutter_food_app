@@ -80,7 +80,7 @@ class _LoginState extends State<Login> {
                   height: 80,
                   alignment: Alignment.center,
                   child: Image.asset(
-                    "assets/menus/logo.png",
+                    "assets/img/logo.png",
                   ),
                 ),
                 const SizedBox(
